@@ -86,26 +86,8 @@ php artisan migrate
 
 ```bash
 php artisan serve
-```
 
-## 📸 Screenshots
 
-You can add screenshots of:
-
-- Home page
-- Reservation page
-- Admin dashboard
-- Menu management
-- Reservation reports
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── dashboard.png
-├── reservations.png
-└── reports.png
 ```
 
 ## 💡 Skills Demonstrated
